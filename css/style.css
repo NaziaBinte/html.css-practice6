@@ -1,0 +1,18 @@
+
+table { width: 100%; 
+   border: 1px solid black;
+}
+ th, td{ font-size: 20px;
+   text-align: center;
+   border: 1px solid black;
+}
+th {
+   padding: 5px;
+}
+td:hover {
+   background-color: #ddd;
+}
+
+a{ display: block; 
+}
+
